@@ -1,3 +1,4 @@
+Titre du Projet : Chatbot LLM Spécialisé pour l'Administration Publique Marocaine                                                                                                          
 Ce projet consiste à développer un chatbot intelligent destiné à l’administration publique marocaine, utilisant un LLM spécialisé pour assister les citoyens dans leurs démarches administratives.
 L'application fournit des réponses précises sur les procédures, documents requis et formulaires officiels grâce à une intégration RAG (Retrieval-Augmented Generation) connectée à une base documentaire actualisée.
 Développé en Java pour la partie backend, le système gère le traitement des requêtes, l’orchestration du modèle et la sécurité des données.
