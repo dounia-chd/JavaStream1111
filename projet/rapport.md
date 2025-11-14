@@ -3,7 +3,7 @@ Dounia CHRAOUA -JAVA-4IIR
 
 Titre du Projet : Chatbot LLM Spécialisé pour l'Administration Publique Marocaine     
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/cfae770f-c32d-4da2-8983-659629b9bb3f" />
-<img width="1536" height="1024" alt="image" src="image WhatsApp 2025-01-13 à 18.03.50_949512f5.jpg" />
+<img width="1536" height="1024" alt="image" src=" WhatsApp 2025-01-13 à 18.03.50_949512f5.jpg" />
 
 Description:
 
