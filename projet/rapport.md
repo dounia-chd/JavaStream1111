@@ -14,3 +14,14 @@ Description:
 
 
 Le projet consiste à développer un Système de Billetterie et d’Accréditation Biométrique pour le Mondial 2030, combinant reconnaissance faciale et empreintes digitales. Le backend en Java/Spring Boot gère l’émission des tickets, l’authentification biométrique et le contrôle d’accès sécurisé. Un module IA externe réalise la détection et la vérification des visages. L’interface  permet la gestion des accès en temps réel et la visualisation des analytics. L’objectif est d’offrir une entrée rapide, fiable et traçable pour les grands événements sportifs.
+
+
+Backend développé en Java / Spring Boot pour gérer la billetterie, l’accès et l’authentification.
+
+Base de données PostgreSQL pour stocker tickets, utilisateurs et historiques d’accès.
+
+Module biométrique avec OpenCV  pour le visage et SourceAFIS pour les empreintes digitales.
+
+Frontend en Angular connecté aux API sécurisées avec Spring Security + JWT.
+
+Déploiement via Docker, avec monitoring assuré par Grafana/Prometheus pour garantir performance et sécurité lors du Mondial 2030.
