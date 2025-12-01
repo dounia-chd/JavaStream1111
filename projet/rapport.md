@@ -5,6 +5,8 @@ Dounia CHRAOUA -JAVA-4IIR
 
 
 Titre du Projet : Système de Billetterie et Accréditation Biométrique pour Grands Événements   
+<img width="578" height="357" alt="image" src="https://github.com/user-attachments/assets/55397dbc-bbda-4bde-a4ab-7ae73c75856c" />
+<img width="788" height="327" alt="image" src="https://github.com/user-attachments/assets/b9a5bb49-8cdd-4a49-bee9-4425d5a9321d" />
 
 
 
